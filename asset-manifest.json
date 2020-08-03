@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DevFlix/static/css/main.943f5163.chunk.css",
+    "main.js": "/DevFlix/static/js/main.f7b5b8bd.chunk.js",
+    "main.js.map": "/DevFlix/static/js/main.f7b5b8bd.chunk.js.map",
+    "runtime-main.js": "/DevFlix/static/js/runtime-main.84224acd.js",
+    "runtime-main.js.map": "/DevFlix/static/js/runtime-main.84224acd.js.map",
+    "static/js/2.e461b27b.chunk.js": "/DevFlix/static/js/2.e461b27b.chunk.js",
+    "static/js/2.e461b27b.chunk.js.map": "/DevFlix/static/js/2.e461b27b.chunk.js.map",
+    "index.html": "/DevFlix/index.html",
+    "precache-manifest.ae4c94265716c81da36d5a07e87c219e.js": "/DevFlix/precache-manifest.ae4c94265716c81da36d5a07e87c219e.js",
+    "service-worker.js": "/DevFlix/service-worker.js",
+    "static/css/main.943f5163.chunk.css.map": "/DevFlix/static/css/main.943f5163.chunk.css.map",
+    "static/js/2.e461b27b.chunk.js.LICENSE.txt": "/DevFlix/static/js/2.e461b27b.chunk.js.LICENSE.txt",
+    "static/media/Logo2.png": "/DevFlix/static/media/Logo2.388e6101.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84224acd.js",
+    "static/js/2.e461b27b.chunk.js",
+    "static/css/main.943f5163.chunk.css",
+    "static/js/main.f7b5b8bd.chunk.js"
+  ]
+}
